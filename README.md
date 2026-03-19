@@ -3,7 +3,7 @@
 DocSpot is a full-stack web application that allows patients to book doctor appointments online.
 The system supports three roles: **User (Patient), Doctor, and Admin**. Each role has specific functionalities for managing appointments, profiles, and system operations.
 
-The application is built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
+The application is built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. And This project is built during my MERN stack course as a task.
 
 ---
 
@@ -142,14 +142,3 @@ http://localhost:3000
 
 ---
 
-## Author
-
-**Ranjitha**
-BSc Computer Science Graduate
-Full Stack Developer
-
----
-
-## License
-
-This project is developed for learning and portfolio purposes.
