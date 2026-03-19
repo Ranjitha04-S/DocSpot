@@ -7,6 +7,12 @@ The application is built using the **MERN Stack (MongoDB, Express.js, React.js, 
 
 ---
 
+## 🎥 Demo
+ 
+> 📽️ [Watch Demo Video](https://drive.google.com/file/d/1GHT28fqJxqk24aCXMeElUkMhClYJ1eIH/view?usp=sharing)
+ 
+---
+
 ## Project Overview
 
 DocSpot simplifies the process of booking and managing doctor appointments. Patients can easily find doctors, check availability, and schedule appointments. Doctors can manage appointment requests, and administrators control the overall system.
